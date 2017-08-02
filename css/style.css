@@ -1,0 +1,34 @@
+.column1 {
+  width: 400px;
+  float: left;
+  margin: 5px;
+  background-color: pink;
+  height: 1000px;
+}
+
+.column2 {
+  width: 400px;
+  float: left;
+  margin: 5px;
+  background-color: lightblue;
+  height: 1000px;
+}
+
+.column3 {
+  width: 400px;
+  float: right;
+  margin: 5px;
+  background-color: lightgreen;
+  height: 1000px;
+}
+
+body img {
+  height: 200px;
+  width: 400px;
+}
+
+h1 {text-align: center}
+
+body {
+  text-align: center;
+}
