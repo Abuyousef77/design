@@ -1,30 +1,25 @@
-.column1 {
-  width: 400px;
+.column {
+  width: 30%;
   float: left;
   margin: 5px;
-  background-color: pink;
   height: 1000px;
 }
 
-.column2 {
-  width: 400px;
-  float: left;
-  margin: 5px;
+#lightblue {
   background-color: lightblue;
-  height: 1000px;
 }
 
-.column3 {
-  width: 400px;
-  float: right;
-  margin: 5px;
+#lg {
   background-color: lightgreen;
-  height: 1000px;
+}
+
+#pink {
+  background-color: pink;
 }
 
 body img {
   height: 200px;
-  width: 400px;
+  width: 90%;
 }
 
 h1 {text-align: center}
